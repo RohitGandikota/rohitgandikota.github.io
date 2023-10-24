@@ -6,8 +6,8 @@ permalink: /publications/
 Here is an updated list of my publications as of 22nd August 2023. 
 ## Accepted Publications
 
-- R. Gandikota, H. Orgad, Y. Belinkov, J. Materzynska, D. Bau, “Unified Concept Editing in Diffusion
-Models”, Proceedings of the Winter Conference on Applications of Computer Vision (WACV 2024) [[**Source Code**]](https://github.com/rohitgandikota/unified-concept-editing)
+- R. Gandikota, H. Orgad, Y. Belinkov, J. Materzynska, D. Bau, "Unified Concept Editing in Diffusion
+Models", Proceedings of the Winter Conference on Applications of Computer Vision (WACV 2024) [[**Source Code**]](https://github.com/rohitgandikota/unified-concept-editing)
 
 - R. Gandikota, J. Materzynska, J. F. Kaufman, D. Bau. "Erasing Concepts from Diffusion Models",  Proceedings of the 2023 IEEE International Conference on Computer Vision (ICCV 2023). [[**Source Code**]](https://github.com/rohitgandikota/erasing)
 
