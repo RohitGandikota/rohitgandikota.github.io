@@ -8,6 +8,7 @@ Here is an updated list of my publications as of 22nd August 2023.
 
 - R. Gandikota, H. Orgad, Y. Belinkov, J. Materzynska, D. Bau, “Unified Concept Editing in Diffusion
 Models”, Proceedings of the Winter Conference on Applications of Computer Vision (WACV 2024) [[**Source Code**]](https://github.com/rohitgandikota/unified-concept-editing)
+
 - R. Gandikota, J. Materzynska, J. F. Kaufman, D. Bau. "Erasing Concepts from Diffusion Models",  Proceedings of the 2023 IEEE International Conference on Computer Vision (ICCV 2023). [[**Source Code**]](https://github.com/rohitgandikota/erasing)
 
 - R. Gandikota, Nik Brown. "Pro-DDPM: Progressive Growing of Variable Denoising Diffusion Probabilistic Models for Faster Convergence", accepted at 2022 33rd British Machine Vision Conference (BMVC'22) [[**Source Code**]](https://github.com/rohitgandikota/progressive-diffusion)
