@@ -3,8 +3,10 @@ layout: page
 title: List of Publications
 permalink: /publications/
 ---
-Here is an updated list of my publications as of 22nd August 2023. 
+Here is an updated list of my publications as of 18th March 2024. 
 ## Accepted Publications
+
+- R. Gandikota, J. Materzynska, T. Zhou, D. Bau, A. Torralba, "Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models", under review [[**Project Page**]](https://sliders.baulab.info) [[**Source Code**]](https://github.com/rohitgandikota/sliders)
 
 - R. Gandikota, H. Orgad, Y. Belinkov, J. Materzynska, D. Bau, "Unified Concept Editing in Diffusion
 Models", Proceedings of the Winter Conference on Applications of Computer Vision **(WACV 2024)** [[**Source Code**]](https://github.com/rohitgandikota/unified-concept-editing)
